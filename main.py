@@ -7,6 +7,9 @@ from piece_loss import message
 # Clear screen
 print("\033[H\033[J", end="")
 
+#Welcome message
+print("I am Abhigyan!\nHope you enjoy my game!")
+
 #Logo
 print(logo)
 
