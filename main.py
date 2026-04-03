@@ -4,9 +4,6 @@ from game_art import pieces, logo, win
 import game_words
 from piece_loss import message
 
-# Clear screen
-print("\033[H\033[J", end="")
-
 #Logo
 print(logo)
 
